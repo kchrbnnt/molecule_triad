@@ -1,1 +1,1 @@
-# molecule_multiplier
+# molecule_triad
